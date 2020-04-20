@@ -1,8 +1,8 @@
-Repositório do cronograma planejado para o GoStack11 da RocketSeat.
-
 ![2020.BOOTCAMP.PLAN](https://hygorbudny.com/images/2020.BOOTCAMP.PLAN.svg)
 
 ---
+
+Repositório do cronograma planejado para o GoStack11 da RocketSeat.
 
 ## Como vejo o progresso?
 
