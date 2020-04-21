@@ -1,4 +1,4 @@
-![2020.BOOTCAMP.PLAN](https://hygorbudny.com/images/2020.BOOTCAMP.PLAN.svg)
+![2020.BOOTCAMP.PLAN](https://github.com/Hygor/RocketSeat.GoStack11/blob/master/progress.svg)
 
 ---
 
