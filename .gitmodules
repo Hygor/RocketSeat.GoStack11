@@ -4,3 +4,6 @@
 [submodule "code/Desafio03"]
 	path = code/Desafio03
 	url = https://github.com/Hygor/2020RSGSB11-03.git
+[submodule "code/Desafio04"]
+	path = code/Desafio04
+	url = https://github.com/Hygor/2020RSGSB11-04.git
