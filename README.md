@@ -6,7 +6,7 @@ Repositório do cronograma planejado para o GoStack11 da RocketSeat.
 
 ## Como vejo o progresso?
 
-O progresso feito no Skylab estará representado no quadro kamban dentro de [Projects](https://github.com/Hygor/RocketSeat.GoStack11/projects) aqui no GitHub.
+O progresso feito no Skylab estará representado no quadro kanban dentro de [Projects](https://github.com/Hygor/RocketSeat.GoStack11/projects) aqui no GitHub.
 
 ## Disponibilidade de tempo
 
