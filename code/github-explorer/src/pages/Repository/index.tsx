@@ -37,12 +37,6 @@ const Repository: React.FC = () => {
   const [issues, setIssues] = useState<Issue[]>([]);
 
   useEffect(() => {
-    // api.get(`repos/${params.repository}`).then((response) => {
-    //   console.log(response.data);
-    // });
-    // api.get(`repos/${params.repository}/issues`).then((response) => {
-    //   console.log(response.data);
-    // });
     const loadData: Function = async () => {
       const [resRepository, resIssues] = await Promise.all([
         api.get(`repos/${params.repository}`),
