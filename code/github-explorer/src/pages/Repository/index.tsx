@@ -98,7 +98,7 @@ const Repository: React.FC = () => {
               href={issue.html_url}
               title={issue.title}
               target="_blank"
-              rel="noreferrer"
+              rel="noopener noreferrer"
             >
               <span>
                 <strong>{issue.title}</strong>
